@@ -7,10 +7,14 @@ Meu foco principal tem sido a construção de aplicativos móveis e serviços de
 
 Estou sempre aberto a novas oportunidades e desafios que me permitam aprender e crescer ainda mais como desenvolvedor. Acredito que a colaboração é fundamental para o sucesso em tecnologia, e estou animado para trabalhar com pessoas incríveis em projetos impactantes.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dotnet,sqlite,mysql,docker,visualstudio,azure" />
-  </a>
-</p>
+## Frameworks já trabalhado
+[![Tecnologias](https://skillicons.dev/icons?i=dotnet,flutter)](https://skillicons.dev)
+
+## SGBDs que já usei
+[![SGBDs](https://skillicons.dev/icons?i=sqlite,postgres)](https://skillicons.dev)
+
+## Ferramentas e plataforma já trabalhado
+[![SGBDs](https://skillicons.dev/icons?i=visualstudio,androidstudio,vscode,postman,docker,azure)](https://skillicons.dev)
+
 
 
