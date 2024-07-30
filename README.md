@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**Rodrigosdk/Rodrigosdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Me+chamo+Rodrigo+Mamede)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+Sou um desenvolvedor especializado em aplicações móveis e backend, apaixonado por criar soluções inovadoras que resolvam problemas do mundo real. Com formação em **Análise e Desenvolvimento de Sistemas**, eu me esforço para escrever código limpo e eficaz que proporcione uma experiência de usuário otimizada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu foco principal tem sido a construção de aplicativos móveis e serviços de backend robustos, usando tecnologias como **Flutter**, **.NET**, **SQL Server** e arquitetura **RESTful**. Eu busco constantemente expandir meus conhecimentos e habilidades, sempre em busca de melhores práticas e novas tecnologias que possam melhorar a qualidade do meu trabalho.
+
+Estou sempre aberto a novas oportunidades e desafios que me permitam aprender e crescer ainda mais como desenvolvedor. Acredito que a colaboração é fundamental para o sucesso em tecnologia, e estou animado para trabalhar com pessoas incríveis em projetos impactantes.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dotnet,sqlite,mysql,docker,visualstudio,azure" />
+  </a>
+</p>
+
+
